@@ -28,7 +28,7 @@
   </ul>
 Apasionado por los desafíos y enamorado del aprendizaje y crecimiento constante.
 <hr>
- Mi objetivo es integrarme a un equipo donde pueda contribuir de manera significativa, aportando al éxito colectivo y nutriéndome de la experiencia de mis colegas. Busco no solo alcanzar metas profesionales, sino también crear un entorno colaborativo que fomente el aprendizaje y la mejora continua, impactando positivamente en el equipo y en mi propio desarrollo.<br>
+ 💡 Mi objetivo es integrarme a un equipo donde pueda contribuir de manera significativa, aportando al éxito colectivo y nutriéndome de la experiencia de mis colegas. Busco no solo alcanzar metas profesionales, sino también crear un entorno colaborativo que fomente el aprendizaje y la mejora continua, impactando positivamente en el equipo y en mi propio desarrollo.<br>
 
 </p>
 <!--[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)-->
