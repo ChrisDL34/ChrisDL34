@@ -18,6 +18,7 @@
     <li>👨‍🔧 Soy <b>Desarrollador de software</b></li>
     <!--<li>🏢 I'm working for <b>Infomaniak Network</b> & <b>LinIT</b></li>-->
     <li>🌱 2 años de experiencia en desarrollo de software trabajando con  lenguajes como Java y Javascript </b></li>
+    <li>💬 He trabajado en proyectos frontend con Javascript usando html,css, react , tailwind y bootstrap </li>
     <li>💬 He trabajado en proyectos de backend con Java, Spring, Spring Boot, Spring Security & JWT, Microservicios, JUnit 5 & Mockito, GraphQL  y Bases de datos como  MySQL y PostgreSQL.
      <!--  con enfoque en programación orientada a objetos (POO) con Java e implementación de patrones de diseño como MVC. --></li>
     <li>📮 Contacta conmigo en linkedin : <a href="https://www.linkedin.com/in/christian-libreros/" target="_blank">Christian Libreros</a>
@@ -26,7 +27,8 @@
   <p>
   </ul>
 Apasionado por los desafíos y enamorado del aprendizaje y crecimiento constante.
-<br>  Mi objetivo es integrarme a un equipo donde pueda contribuir de manera significativa, aportando al éxito colectivo y nutriéndome de la experiencia de mis colegas. Busco no solo alcanzar metas profesionales, sino también crear un entorno colaborativo que fomente el aprendizaje y la mejora continua, impactando positivamente en el equipo y en mi propio desarrollo.<br>
+<hr>
+ Mi objetivo es integrarme a un equipo donde pueda contribuir de manera significativa, aportando al éxito colectivo y nutriéndome de la experiencia de mis colegas. Busco no solo alcanzar metas profesionales, sino también crear un entorno colaborativo que fomente el aprendizaje y la mejora continua, impactando positivamente en el equipo y en mi propio desarrollo.<br>
 
 </p>
 <!--[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)-->
