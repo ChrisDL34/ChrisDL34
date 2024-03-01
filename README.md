@@ -17,7 +17,7 @@
   <ul>
     <li>👨‍🔧 Soy <b>Desarrollador de software</b></li>
     <!--<li>🏢 I'm working for <b>Infomaniak Network</b> & <b>LinIT</b></li>-->
-    <li>🌱 2 años de experiencia en desarrollo de software trabajando con  lenguajes como Java y Javascript </b></li>
+    <li>🌱 experiencia en desarrollo de software trabajando con  lenguajes como Java y Javascript </b></li>
     <li>💬 He trabajado en proyectos frontend con Javascript usando html,css, react , tailwind y bootstrap </li>
     <li>💬 He trabajado en proyectos de backend con Java, Spring, Spring Boot, Spring Security & JWT, Microservicios, JUnit 5 & Mockito, GraphQL, asp.net  y Bases de datos como  MySQL, SQLServer y PostgreSQL.
      <!--  con enfoque en programación orientada a objetos (POO) con Java e implementación de patrones de diseño como MVC. --></li>
